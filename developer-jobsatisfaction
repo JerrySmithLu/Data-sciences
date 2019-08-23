@@ -1,1 +1,14 @@
+How about job satisfication of developer?
+
+-A data based approach using Stack Overflow’s developer survey data from 2017.
+
+Introduction
+We know developer job is very hot acuturely and there are many competing views to present developer job future, specifically artificial intelligence, data science, robot etc.
+Now, it's a personal viewpoint on the reality of these statements. But what does the data suggest? Developer's living environment trends for looking for a new job is based on the current developer feedbacks. Then current developers will determine the truth of these statements into the extended future.
+
+Therefore, I analyze dataset from Stackoverflow’s 2017 Annual Developer Survey, to take a closer look at this question.
+The survey data covers over 51000 feedbacks from 200 countries and territories. The survey presents multiple aspects of jobs related to software developer and data analytics. There were more than 154 features as a part of the survey.
+
+How about job satisfication of developer?
+The question is most interested for everyone at the moment. But we know it's a pretty good job. Now I'll use some statistics to show its situation in ascending order the proportion of individuals that selected particular methods.
 
