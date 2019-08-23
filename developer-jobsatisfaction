@@ -9,7 +9,20 @@ Now, it's a personal viewpoint on the reality of these statements. But what does
 Therefore, I analyze dataset from Stackoverflow’s 2017 Annual Developer Survey, to take a closer look at this question.
 The survey data covers over 51000 feedbacks from 200 countries and territories. The survey presents multiple aspects of jobs related to software developer and data analytics. There were more than 154 features as a part of the survey.
 
-How about job satisfication of developer?
-The question is most interested for everyone at the moment. But we know it's a pretty good job. Now I'll use some statistics to show its situation in ascending order the proportion of individuals that selected particular methods.
+Part I: How about job satisfication of developer?
+The question is most interested for everyone at the moment. But we know it's a pretty good job. Now I'll use some statistics to show its situation in ascending order the proportion of individuals that selected particular methods:
+JobSatisfaction	JobSatisfaction		Meaning	
+0.0	467	Strongly boring
+1.0	373	very very boring
+2.0	888	very boring
+3.0	1635	boring
+4.0	1865	So so
+5.0	3749	Accepted
+6.0	4726	Like it
+7.0	7969	Statisficated
+8.0	8983	Very statisficated
+9.0	5573	Very very statificated
+10.0	4148	Strongly statificated
+From the previous statistic data, we can see that more than 79.2% of respondents are satisfied with their work. I think that's why developer job is a good choice for the future. The data here are aggregated over all developers in the survey and it could be more interesting to know how developers that are comfortable with specific programming languages feel about different salaries.
 
-developer-jobsatisfaction
+Part II: What factor 
