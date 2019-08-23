@@ -25,4 +25,11 @@ JobSatisfaction	JobSatisfaction		Meaning
 10.0	4148	Strongly statificated
 From the previous statistic data, we can see that more than 79.2% of respondents are satisfied with their work. I think that's why developer job is a good choice for the future. The data here are aggregated over all developers in the survey and it could be more interesting to know how developers that are comfortable with specific programming languages feel about different salaries.
 
-Part II: What factor 
+Part II: Which features are more important for JobSatisfaction？(top 3) 
+In the chart below, I was interested what features are more important for JobSatisfaction and they can determine how much they like developer job.I use DT model to deteck all select features corelation. Normally we use information gain ratio method to evaluate it.
+Finally we can see its results: DeveloperType, YearsCodedJob, YearsProgram are most important.
+
+Part II: Which features are more important for JobSatisfaction？(top 3) 
+Finally let us take a look at what kind of corelation they are: linear correlation or non-linear correlation. I use LinearRegression model to aggregate it. Then we can see its aggregated results:
+
+
