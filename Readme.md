@@ -29,7 +29,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 There is one notebook available here to showcase work related to the above questions. Three sections of the notebook are exploratory in searching through the data pertaining to the questions showcased by the section title.
 
 ## Results
-The main findings of the code can be found in the notebook available.
+The main findings of the code can be found in the notebook available <a href="https://jerrysmithlu.github.io/Data-sciences/">here</a>.
 
 ## License
 non license
