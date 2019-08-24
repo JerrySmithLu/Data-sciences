@@ -1,0 +1,34 @@
+How about job satisfication of developer?
+
+-A data based approach using Stack Overflow’s developer survey data from 2017.
+
+Introduction
+We know developer job is very hot acuturely and there are many competing views to present developer job future, specifically artificial intelligence, data science, robot etc.
+Now, it's a personal viewpoint on the reality of these statements. But what does the data suggest? Developer's living environment trends for looking for a new job is based on the current developer feedbacks. Then current developers will determine the truth of these statements into the extended future.
+
+Therefore, I analyze dataset from Stackoverflow’s 2017 Annual Developer Survey, to take a closer look at this question.
+The survey data covers over 51000 feedbacks from 200 countries and territories. The survey presents multiple aspects of jobs related to software developer and data analytics. There were more than 154 features as a part of the survey.
+
+Part I: How about job satisfication of developer?
+The question is most interested for everyone at the moment. But we know it's a pretty good job. Now I'll use some statistics to show its situation in ascending order the proportion of individuals that selected particular methods:
+JobSatisfaction	JobSatisfaction		Meaning	
+0.0	467	Strongly boring
+1.0	373	very very boring
+2.0	888	very boring
+3.0	1635	boring
+4.0	1865	So so
+5.0	3749	Accepted
+6.0	4726	Like it
+7.0	7969	Statisficated
+8.0	8983	Very statisficated
+9.0	5573	Very very statificated
+10.0	4148	Strongly statificated
+From the previous statistic data, we can see that more than 79.2% of respondents are satisfied with their work. I think that's why developer job is a good choice for the future. The data here are aggregated over all developers in the survey and it could be more interesting to know how developers that are comfortable with specific programming languages feel about different salaries.
+
+Part II: Which features are more important for JobSatisfaction？(top 3) 
+In the chart below, I was interested what features are more important for JobSatisfaction and they can determine how much they like developer job.I use DT model to deteck all select features corelation. Normally we use information gain ratio method to evaluate it.
+Finally we can see its results: DeveloperType, YearsCodedJob, YearsProgram are most important.
+
+Part II: Which features are more important for JobSatisfaction？(top 3) 
+Finally let us take a look at what kind of corelation they are: linear correlation or non-linear correlation. I use LinearRegression model to aggregate it. Then we can see its aggregated results:
+
